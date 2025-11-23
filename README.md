@@ -341,4 +341,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Script authors credited within individual files
 - VMware community for sharing knowledge and best practices
 
+---
 
+**Last Updated:** November 2024
